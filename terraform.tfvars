@@ -1,0 +1,7 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone = "ap-southeast-1b"
+env_prefix = "dev"
+my_ip = "14.191.230.64/32"
+instance_type = "t2.micro"
+ami_id         = "ami-06c4be2792f419b7b"
